@@ -9,10 +9,10 @@ Kraken (crunchbase.com/organization/kraken)
 **Incorporation Date:**
 July 28, 2011 (crunchbase.com/organization/kraken)
 
-** Launch Date:** 
+**Launch Date:** 
 September 2013
 
-**Founder/s: **
+**Founder/s:**
 Jesse Powell (crunchbase.com/organization/kraken)
 
 **How did the idea for the company (or project) come about?:** 
